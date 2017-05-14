@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Seun Movies App</string>
+    <string name="rv_image_description">image posters</string>
+    <string name="title_sort">Sort By</string>
+    <string name="default_sort_option">popular</string>
+    <string name="summary">Select Sort Order</string>
+    <string name="settings">Settings</string>
+    <string name="base_url">https://api.themoviedb.org/3/movie/</string>
+    <string name="youtube_url">https://youtube.com/watch</string>
+    <string name="api_param">api_key</string>
+    <string name="api_key">3d6a61d01fa03a83807c656f9cd24361</string>
+    <string name="star_desc">star ratings logo</string>
+    <string name="conn">No Internet Connectivity</string>
+    <string name="video_path">/videos</string>
+    <string name="review_path">/reviews</string>
+    <string name="trailer_desc">displays list of trailers</string>
+    <string name="reviews_desc">show viewers comments</string>
+    <string name="avater">profile of the reviewer</string>
+    <string name="share_trailer">Share</string>
+    <string name="subject">Check out this BlockBuster</string>
+    <string name="message">Link to Trailer: %1$s</string>
+    <string name="chooser">Choose an App</string>
+    <string name="youtube_key">AIzaSyCxeQaLuDvg1KxCqViujHJp7ZiFn4O6Vzw</string>
+    <string name="unfavourite">Deleted from Fvourites</string>
+    <string name="favourite">Added to Favourites</string>
+</resources>

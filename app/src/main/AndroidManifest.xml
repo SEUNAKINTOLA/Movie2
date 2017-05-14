@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="oluwaseun.akintola.movies" >
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application
+        android:name=".app.AppController"
+        android:supportsRtl="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DetailsActivity" android:label="Details"/>
+        <activity android:name=".SettingsActivity" android:label="Settings"/>
+        <activity android:name=".ReviewActivity" android:label="Reviews"/>
+        <activity android:name=".ReviewDetailActivity" android:label="Reviews"/>
+        <activity android:name=".TrailerActivity" android:label="Trailer"/>
+        <activity android:name=".YouTubeActivity" android:label="YouTube"/>
+         <receiver android:name=".utilities.InternetReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <provider
+            android:authorities="oluwaseun.akintola.movies"
+            android:name="oluwaseun.akintola.movies.data.MovieProvider"
+            android:exported="false"/>
+    </application>
+
+</manifest>

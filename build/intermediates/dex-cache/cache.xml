@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3fd11b9a0a7c1cb322bec118f6f4e75100264b5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\pre-dexed\debug\classes-f7254eb00296881121b32fdad048b2d63e1a6714.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\pre-dexed\debug\classes-9e4c8465ac6bdb873fdd69a9d1d6c1240320f145.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-fe797c937b124eb9f145402bdaeb6e36cde43bf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\pre-dexed\debug\classes-937a5a4fe7a32554e472a79f7bc799f9c3f14413.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-a3d50b90b2563b8b78a0d832161a0fe52b9df90d.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\pre-dexed\debug\classes-5f93ff564d88f4a76be2c4f52fa8bf53ae6caaec.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\AKINTOLA OLUWASEUN\AndroidStudioProjects\popular\app\build\intermediates\pre-dexed\debug\volley-ca112c4614f241234708853261c471f9bda041b4.jar" />
+    </item>
+
+</items>
